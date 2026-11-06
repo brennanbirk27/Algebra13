@@ -1,0 +1,6 @@
+{
+  "name": "Krunker Proxy Hub & Online Game Launcher",
+  "description": "Connect and play Krunker.io online through high-speed HTTP & WebSocket proxy servers with anti-block routing, pointer lock support, ping diagnostics, and performance optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
